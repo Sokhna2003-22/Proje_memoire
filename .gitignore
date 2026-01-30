@@ -2,5 +2,6 @@ monenv/
 __pycache__/
 *.pyc
 .env
+.venv
 Data/
 postgres_data/
