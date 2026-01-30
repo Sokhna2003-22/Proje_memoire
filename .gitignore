@@ -1,0 +1,6 @@
+monenv/
+__pycache__/
+*.pyc
+.env
+Data/
+postgres_data/
