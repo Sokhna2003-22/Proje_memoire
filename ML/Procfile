@@ -1,1 +1,1 @@
-web: gunicorn Proje_memoire.ML.app_api:app
+web: gunicorn ML.app_api:app
